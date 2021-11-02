@@ -1,0 +1,16 @@
+.venv
+*.swp
+*.swo
+*.pyc
+.coverage
+dist
+MANIFEST
+README
+aws_okta_keyman.egg-info
+.idea/
+build/
+htmlcov/
+__pycache__
+.eggs/
+.tox/
+.python-version
